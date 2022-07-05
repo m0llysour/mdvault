@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "91f79aa6d1cd68b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c790cc436267a72f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 hack guide/00 all around/THM/jr pen test/08 file inclusion.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c136785c9addea28",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ddc8bce76399159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a06be466d3ebf0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44d6447159b19736",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "certifi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "af7dff3c12bcb486",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd02f6c5d438b152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2abba97c36c7e42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 hack guide/00 all around/THM/jr pen test/08 file inclusion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222,
+    "collapsed": true
+  },
+  "active": "c790cc436267a72f",
+  "lastOpenFiles": [
+    "01 hack guide/00 all around/THM/jr pen test/08 file inclusion.md",
+    "01 hack guide/00 all around/THM/jr pen test/07 IDOR.md",
+    "01 hack guide/00 all around/THM/jr pen test/00 basics.md",
+    "01 hack guide/00 all around/THM/jr pen test/06 auth bypass.md",
+    "01 hack guide/00 all around/THM/jr pen test/05 subdomain enum.md",
+    "01 hack guide/00 all around/THM/jr pen test/04 content discovery.md",
+    "01 hack guide/00 all around/THM/jr pen test/03 walking an application.md",
+    "01 hack guide/00 all around/THM/jr pen test/02 principles of security.md",
+    "01 hack guide/00 all around/THM/jr pen test/01 fundamentals.md",
+    "01 hack guide/00 all around/THM/pre sec/07. windoze.md"
+  ]
+}

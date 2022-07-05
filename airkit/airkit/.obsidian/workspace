@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "7fec27f37227aa2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46e70af82fb6e19",
+        "type": "leaf",
+        "dimension": 61.64251207729469,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "👩🏽‍💻 by people/hakuna/Jere.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "aa87d7c5400ec698",
+        "type": "leaf",
+        "dimension": 38.35748792270531,
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "!!! TASKS.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5ff9c77541cea98",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e412735ae4acade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84ce237f792194e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c67b3423db6c0c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "9f3c545b36cb6112",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8086a6faaf59d44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afdcdf202fd1e5d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "👩🏽‍💻 by people/hakuna/Jere.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d46e70af82fb6e19",
+  "lastOpenFiles": [
+    "👩🏽‍💻 by people/hakuna/Jere.md",
+    "👩🏽‍💻 by people/managers/Drew.md",
+    "👩🏽‍💻 by people/hakuna/!whole team.md",
+    "👩🏽‍💻 by people/hakuna/Steph.md",
+    "👩🏽‍💻 by people/hakuna/Mar.md",
+    "🐈  strength.md",
+    "👩🏽‍💻 by people/managers/Tim.md",
+    "👩🏽‍💻 by people/managers/Pau.md",
+    "👩🏽‍💻 by people/managers/Nico.md",
+    "👩🏽‍💻 by people/managers/ismaen.md"
+  ]
+}
