@@ -5,7 +5,7 @@
 - mesa
 - minipimer
 **short reach**
-- versionar mds
+~~- versionar mds~~
 - enchufes (cocina/pieza)
 - lampara de escritorio
 - bateria reloj cadena
