@@ -1,11 +1,12 @@
 **today**
 1. OB steph
-2. tickets met
+3. slack sandra/chels/jake
+5. tickets met
 
 **this week**
-1.  armar listado de lo que Mar fue haciendo
-2. setup call ismaen
-3. quienes asisten el 22 a hackday?
+2. translate Mar path
+3. setup call ismaen
+4. quienes asisten el 22 a hackday?
 
 **july**
 1. setup call sandra
