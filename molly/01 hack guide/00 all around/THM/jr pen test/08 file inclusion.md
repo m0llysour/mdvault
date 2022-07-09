@@ -1,5 +1,5 @@
 main issue of these vulnerabilities is the input validation, in which the user inputs are not sanitized or validated, and the user controls them. When the input is not validated, the user can pass any input to the function, causing the vulnerability.
-it won't be effective if file inclusion vulnerability is found with no access to sensitive data and no writing ability to the server.
+it won't be  effective if file inclusion vulnerability is found with no access to sensitive data and no writing ability to the server.
 
 **path/directory traversal vuln**
 We can test out the URL parameter by adding payloads to see how the web application behaves. Path traversal attacks, also known as the dot-dot-slash attack, take advantage of moving the directory one step up using the double dots ../
