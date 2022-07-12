@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 hack guide/00 all around/THM/jr pen test/08 file inclusion.md",
+            "file": "02 broad notes/cybermentor course/current 2022/1.  Passive recon _ information gathering.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 hack guide/00 all around/THM/jr pen test/08 file inclusion.md",
+                "file": "02 broad notes/cybermentor course/current 2022/1.  Passive recon _ information gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,8 @@
   },
   "active": "c790cc436267a72f",
   "lastOpenFiles": [
+    "02 broad notes/cybermentor course/current 2022/1.  Passive recon _ information gathering.md",
+    "01 hack guide/01 recon/osint gathering techniques.md",
     "01 hack guide/00 all around/THM/jr pen test/08 file inclusion.md",
     "01 hack guide/00 all around/THM/jr pen test/07 IDOR.md",
     "01 hack guide/00 all around/THM/jr pen test/00 basics.md",
@@ -96,8 +99,6 @@
     "01 hack guide/00 all around/THM/jr pen test/05 subdomain enum.md",
     "01 hack guide/00 all around/THM/jr pen test/04 content discovery.md",
     "01 hack guide/00 all around/THM/jr pen test/03 walking an application.md",
-    "01 hack guide/00 all around/THM/jr pen test/02 principles of security.md",
-    "01 hack guide/00 all around/THM/jr pen test/01 fundamentals.md",
-    "01 hack guide/00 all around/THM/pre sec/07. windoze.md"
+    "01 hack guide/00 all around/THM/jr pen test/02 principles of security.md"
   ]
 }

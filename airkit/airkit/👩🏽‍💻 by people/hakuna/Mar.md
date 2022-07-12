@@ -4,5 +4,5 @@ resta aumento
 plan de carrera
 met uat para steph
 
-3hs ultima semana
-3hs la anterior
+~~3hs ultima semana
+3hs la anterior~~
