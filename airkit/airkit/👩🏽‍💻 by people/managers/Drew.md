@@ -4,3 +4,6 @@ Mar
 lucho shadow, builder
 
 jere, needs feedback, is he doing ok?
+
+PIPELINE?
+travel to the us?
