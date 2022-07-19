@@ -1,6 +1,3 @@
 **meetings**
-- viernes 22 hackday presencial? asistencia?
-- security awareness training
-lucho, dai
-- acceso a datadog
-mar, support?
+- viernes 22 hackday: listado de proyectos
+- lunes 25 estoy OFF
