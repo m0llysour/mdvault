@@ -7,3 +7,4 @@ proceso de feedback
 planes de carrera: ver con AK
 
 hackday
+lunes 25 PTO
