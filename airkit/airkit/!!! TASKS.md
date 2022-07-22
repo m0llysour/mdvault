@@ -1,6 +1,6 @@
 **today**
-1. setup call ismaen
-3.  met pass Dev > QA with checklist
+1. met pass Dev > QA with checklist
+2. setup call ismaen
 
 **this week**
 
