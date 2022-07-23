@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 broad notes/cybermentor course/current 2022/1.  Passive recon _ information gathering.md",
+            "file": "!when the roughin' gets going.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 broad notes/cybermentor course/current 2022/1.  Passive recon _ information gathering.md",
+                "file": "!when the roughin' gets going.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

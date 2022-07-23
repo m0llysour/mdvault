@@ -13,6 +13,6 @@
 ==- (galpon de) ropa==
 - jogging ejercicio
 - lentes de contacto
-- platos pequeños, vasos
+- platos pequeños
 - botiquin caja
 - pizarra estudio
